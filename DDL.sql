@@ -1,1 +1,1 @@
-create database FTL_Project;
+create database FPL_Project;
